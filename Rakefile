@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "repli_kate"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{A replication and load balancing engine for Rails to CouchDB}
+    gem.description = %Q{A replication and load balancing engine for Rails to CouchDB}
     gem.email = "vincenzo.rivello@gmail.com"
     gem.homepage = "http://github.com/enzor/repli_kate"
     gem.authors = ["Vincenzo Rivello"]
