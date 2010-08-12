@@ -1,6 +1,6 @@
 = repli_kate
 
-repli_kate is just a simple jem built around couchrest API for ease the work of replication and load balancing to a cluster of CouchDB databases.
+repli_kate is just a simple gem built around couchrest API for ease the work of replication and load balancing to a cluster of CouchDB databases.
 
 == Note on Patches/Pull Requests
  
